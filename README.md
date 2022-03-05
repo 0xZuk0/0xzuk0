@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2> Hi there <img src="https://media.giphy.com/media/FCffpN404oRZpFbSzl/giphy.gif" width="50"> </h2>
 
 ![banner](images/Landing_Page_Header.jpg)
 
